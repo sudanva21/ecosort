@@ -22,7 +22,7 @@ const Footer = () => {
           </div>
           
           <div className="text-xs text-gray-400">
-            © 2024 EcoSort. Segregate Smart, Recycle Better.
+            © 2025 EcoSort. Segregate Smart, Recycle Better.
           </div>
         </div>
       </div>
